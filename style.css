@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    font-family: cursive;
+}
+li {
+    font-size: 20px;
+    font-family: cursive;
+}
+.link-header {
+    font-size: 35px;
+    color: black;
+    font-family: Impact, fantasy;
+    text-decoration: none;
+}
+header {
+    padding: 20px
+}
+.link-header:focus {
+    color: blue
+
+}
+.link-header:hover {
+    color: aqua;
+}
+.link-header:focus {
+    color: navy;
+}
+
